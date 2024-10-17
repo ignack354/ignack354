@@ -1,16 +1,15 @@
-## Hi there 👋
-hol esta es la prueba de mi repositorio
-<!--
-**ignack354/ignack354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  I am samael meyer 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on genethics algortims
+- 🌱 I’m currently learning data science and artifical inteligence
+### 🖥️ Open-Source  Futures Projects
+| Name         | Encabezado 2 | Encabezado 3 |
+|--------------|--------------|--------------|
+| MInecraft_AI | Fila 1, Col 2| Fila 1, Col 3|
+| Fila 2, Col 2| Fila 2, Col 3|
+| Fila 3, Col 1| Fila 3, Col 2| Fila 3, Col 3|
+
+
