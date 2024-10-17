@@ -1,15 +1,12 @@
-##  I am samael meyer 
+## I am Samael Meyer
 
+- 🔭 I’m currently working on genethics algorithms
+- 🌱 I’m currently learning data science and artificial intelligence
 
-
-
-- 🔭 I’m currently working on genethics algortims
-- 🌱 I’m currently learning data science and artifical inteligence
-### 🖥️ Open-Source   Projects
-|     Name     | Tecnology |    status    |
-|--------------|--------------|--------------|
-| MInecraft_AI | tensorflow|    Thought   |
-| Car AI Genoma| neat|Thought|
-| Gala AI genoma| neat| Thought|
-|Trex AI Genoma  |neat |finish  
-
+### 🖥️ Open-Source Projects
+|     Name     | Tecnology  |    Status    |
+|--------------|------------|--------------|
+| MInecraft_AI | TensorFlow |    Thought   |
+| Car AI Genoma| NEAT       |    Thought   |
+| Gala AI genoma| NEAT      |    Thought   |
+| [Trex AI Genoma](https://github.com/ignack354/t-rex_chrome_ai_genoma) | NEAT | Finished |
