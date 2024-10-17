@@ -5,7 +5,7 @@
 
 ### 🖥️ Open-Source Projects
 |     Name     | Tecnology  |    Status    | Language           |
-|--------------|------------|--------------|--------------------|
+|--------------|------------|--------------|-----------------------------------|
 | MInecraft_AI | TensorFlow |    Thought   | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |
 | Car AI Genoma| NEAT       |    Thought   | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
 | Gala AI genoma| NEAT      |    Thought   | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
