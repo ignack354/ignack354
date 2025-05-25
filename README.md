@@ -5,7 +5,7 @@
 ### 🖥️ Open-Source Projects
 |     Name     | Tecnology  |    Status    | Language           |
 |--------------|------------|--------------|-----------------------------------|
-| MInecraft_AI | TensorFlow |   In Process | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |
+| [Minecraft_AI](https://github.com/ignack354/MinecraftAI)| TensorFlow |   In Process | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |
 | Car AI Genoma| NEAT       |    Thought   | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
 | Gala AI genoma| NEAT      |    Thought   | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
 | [Trex AI Genoma](https://github.com/ignack354/t-rex_chrome_ai_genoma) | NEAT | Finished | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
@@ -24,6 +24,6 @@ Javascript, HTML, CSS, Python and Java..
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-samael-meyer-242231284/)
 
 
