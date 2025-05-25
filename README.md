@@ -24,6 +24,6 @@ Javascript, HTML, CSS, Python and Java..
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-samael-meyer-242231284/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samael-meyer-242231284/)
 
 
